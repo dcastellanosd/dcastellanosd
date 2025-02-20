@@ -11,10 +11,10 @@
 
 [![](https://img.shields.io/badge/LinkedIn-castellanosdiego-blue)](https://www.linkedin.com/in/castellanos-diego)\
 [![](https://img.shields.io/badge/Mail-dcastellanosd@spsolutions.com.mx-red)](mailto:dcastellanosd@spsolutions.com.mx)\
-![](https://komarev.com/ghpvc/?username=dcastellanosd&color=green)
+![](https://komarev.com/ghpvc/?username=dcastellanosd&color=lightgrey)
 
 ## **My Skill Set**  
-<table align="center"><tr><td valign="top" width="10%">
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" align="center"><tr><td valign="top" width="10%">
 </td><td valign="top" width="50%">
 
 <div align="center">
