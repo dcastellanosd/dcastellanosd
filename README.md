@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Castellanos</h1>
 
-<img alt="Coding" width="27%" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhhZnE4cDdmNG4yeXp6ZGY2Mmg1amJ5bWJobjRpczBkbGpjazNkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img alt="Coding" width="30%" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhhZnE4cDdmNG4yeXp6ZGY2Mmg1amJ5bWJobjRpczBkbGpjazNkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 ### Talento in House at SPS
 
